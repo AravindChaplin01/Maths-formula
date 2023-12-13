@@ -6,6 +6,6 @@ function calculateSolution(){
     var solution=a**2 + b**2;
 
 
-    document.getElementById('result').innerText='Result: Y=' + solution;
+    document.getElementById('result').innerText='Result: Z=' + solution;
 
 }
